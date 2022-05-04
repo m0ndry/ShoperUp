@@ -1,0 +1,67 @@
+body
+{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    
+}
+
+h1
+{
+    font-size: 36px;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+h3
+{
+    font-size: 24px;
+}
+
+h4
+{
+    font-size: 18px;
+}
+
+h5
+{
+    font-size: 14px;
+}
+
+h6
+{
+    font-size: 12px;
+}
+
+a
+{
+    color:red;
+    
+}
+
+.matrix
+{
+    color: #fff;
+    margin: 100px;
+    border: 1px solid #0fd7d7;
+    border-radius: 30px;
+        max-width: 500px;
+}
+
+.matrix > header
+{
+    background-image: url("../img/matrix.webp");
+    
+}
+
+.h1
+{
+ padding:20px;
+}
+
+.matrix > p
+{
+padding:10px 30px 30px 
+}
